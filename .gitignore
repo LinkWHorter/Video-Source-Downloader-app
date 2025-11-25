@@ -1,0 +1,6 @@
+build/
+build/**
+downloads/
+src/
+src/**
+config.json
