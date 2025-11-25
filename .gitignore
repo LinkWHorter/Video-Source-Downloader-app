@@ -1,6 +1,8 @@
+# Ignore build directory
 build/
-build/**
-downloads/
+
+# Ignore source directory
 src/
-src/**
-config.json
+
+# Ignore the .gitignore file itself (not recommended, but requested)
+.gitignore
