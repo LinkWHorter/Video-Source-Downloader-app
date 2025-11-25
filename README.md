@@ -2,7 +2,7 @@
 
 *A lightweight desktop tool for downloading videos from almost any website*
 
-### Download release of project [here](https://github.com/LinkWHorter/Video-Source-Downloader-app/releases/download/videosourcer/VideoSourcer.exe).
+### *Download* release of project [here](https://github.com/LinkWHorter/Video-Source-Downloader-app/releases/download/videosourcer/VideoSourcer.exe).
 
 ## 📸 Preview
 
